@@ -8,7 +8,7 @@ subtitle: Data Services
 **tnk[it]** est spécialisé dans la valorisation de données en tout genre, aussi bien sur les aspects techniques qu’organisationnels
 
 **tnk[it]** accompagne la transformation data d’entreprises en Algérie et ailleurs
-My name is Inigo Montoya. I have the following qualities:
+
 
 ### Notre offre de service
 

@@ -3,8 +3,7 @@ layout: page
 title: tnk[it]
 subtitle: Data Services
 ---
-**tnk[it]** est cabinet de consulting data basé à Alger et Londres (SARL TNKIT- RCS 1045515B18-00/16)
-
+**tnk[it]** est cabinet de consulting data basé à Alger et Londres
 
 **tnk[it]** est spécialisé dans la valorisation de données en tout genre, aussi bien sur les aspects techniques qu’organisationnels
 
